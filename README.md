@@ -36,7 +36,7 @@ Our released implementation is tested on.
 ### Setup
 
 ```
-cd VirConv
+cd PV-MM3D
 python setup.py develop
 ```
 
