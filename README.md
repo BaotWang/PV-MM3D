@@ -8,7 +8,7 @@ This code is mainly based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet
 
 The detection frameworks are shown below.
 
-![](./tools/image/framework.png)
+![](/tools/image/framework.png)
 
 
 ## Getting Started
