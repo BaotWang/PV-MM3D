@@ -1,5 +1,5 @@
 
-# [Information Fusion 2026] PV-MM3D: Point-Voxel Parallel Dual-Stream Framework with Dual-Attention Region Adaptive Fusion for Multimodal 3D Object Detection 
+# PV-MM3D: Point-Voxel Parallel Dual-Stream Framework with Dual-Attention Region Adaptive Fusion for Multimodal 3D Object Detection 
 This is a official code release of PV-MM3D. 
 This code is mainly based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), some codes are from [VirConv](https://github.com/hailanyi/VirConv),[TED](https://github.com/hailanyi/TED), 
 [CasA](https://github.com/hailanyi/CasA), [PENet](https://github.com/JUGGHM/PENet_ICRA2021) and [SFD](https://github.com/LittlePey/SFD).
